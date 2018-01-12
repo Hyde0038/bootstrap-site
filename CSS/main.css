@@ -1,22 +1,30 @@
+body {
+    background-color: #8C2EFF;
+}
 .card-block{
     margin-bottom: 1rem;
 }
 .btn-blue {
-    background-color: #5172AB;
+    background-color: #B32AE8;
     transition: fill 0.2s;
 }
 .btn-blue:hover {
-    background-color: purple;
+    background-color: #E82A8B;
 }
 .btn-blue:active {
     background-color: black;
 }
 .card{
-    background-color: lightgray;
+    background-color: #FF2E31;
     border-style:solid;
     border-radius: 4px;
-    border-color: blueviolet;
     box-shadow: 2px 2px 2px 0px;
     margin-bottom: 1rem;
     margin-left: 1rem;
+}
+#first{
+    background-color: #FF2E31;
+}
+#second{
+    background-color: #8C2EFF;
 }
